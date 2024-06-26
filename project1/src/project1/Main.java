@@ -9,7 +9,7 @@ class A {
 	}
 	
 	void meth1(){
-		System.out.println("para2");
+		System.out.println("para6");
 	}
 
 	
